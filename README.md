@@ -4,9 +4,9 @@
 
 A portfolio project demonstrating HubSpot contact management, audience selection, promotional email design, and mobile quality checks.
 
-![DeskBloom Living brand logo](images/desk-bloom-logo.png)
+![DeskBloom Living brand logo](images/desk-bloom-logo.svg)
 
-![Portable USB mini humidifier email hero image](images/mini-humidifier-hero.png)
+![Portable USB mini humidifier email hero image](images/mini-humidifier-hero.svg)
 
 ## Project at a Glance
 
