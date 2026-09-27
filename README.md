@@ -19,6 +19,20 @@ A portfolio project demonstrating HubSpot contact management, audience selection
 | **Audience** | Office workers |
 | **Offer shown** | Indicative simulated price of A$19.95 |
 
+## Campaign Screenshots
+
+### Mobile Email Preview
+
+![DeskBloom promotional email displayed on a mobile screen; sender email address redacted](images/mobile-email-preview.svg)
+
+This preview shows the branded email layout, product image, A$19.95 price, and call to action on mobile.
+
+### HubSpot Audience Selection
+
+![HubSpot send setup showing the DeskBloom test segment and three estimated recipients; sender email address redacted](images/hubspot-audience-setup.svg)
+
+The setup screen shows **3 of 3 estimated recipients** selected in the test segment. This is an audience estimate, not a campaign delivery or engagement result.
+
 ## STAR Case Study
 
 ### Situation
@@ -60,4 +74,4 @@ The project demonstrates transferable skills for customer and student enquiry su
 
 ## Scope and Privacy
 
-DeskBloom Living and the product offer are fictional. The A$19.95 price is illustrative and does not represent a live offer. Contact details and recipient screenshots are intentionally excluded from this public portfolio repository.
+DeskBloom Living and the product offer are fictional. The A$19.95 price is illustrative and does not represent a live offer. Contact details are excluded from this public portfolio repository. The included HubSpot screenshots have the sender email address redacted.
